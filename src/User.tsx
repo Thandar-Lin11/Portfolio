@@ -502,7 +502,7 @@ const SkillInfo = [
       { icon: Images.prisma, text: "Prisma" },
       { icon: Images.firebase, text: "Firebase" },
       { icon: Images.cloudinary, text: "Cloudinary" },
-      { icon: Images.postgresSQL, text: "PostgreSQL" },
+
       { icon: Images.restApi, text: "RestfulAPI" },
     ],
   },
@@ -555,7 +555,7 @@ const ExperienceInfo = [
     role: "Full Stack Developer ",
     company: "ITVisionHub",
     date: "July 2022 - Present",
-    desc: "As a Junior Full Stack Developer, I have expanded my expertise to backend technologies, including Node.js, Express.js, Prisma, and PostgreSQL, while continuing to develop frontend interfaces using React and TypeScript. I played a key role in developing full-stack web applications by designing RESTful APIs and integrating frontend and backend functionality. I collaborated in agile teams to deliver scalable and high-performance solutions. My responsibilities include creating and maintaining databases, conducting real-time data operations, and ensuring secure and efficient user experiences across web platforms. Additionally, I conducted project management for existing websites, provided customer training, and developed user manuals. My ability to quickly adapt to new technologies and my strong troubleshooting skills have been instrumental in delivering top-quality software solutions.",
+    desc: "At IT VISION HUB Co., Ltd., I expanded my expertise to backend technologies such as Node.js, Express.js, Prisma, and MongoDB, while continuing to develop frontend interfaces using React and TypeScript. I played a pivotal role in designing RESTful APIs and integrating frontend-backend functionality in full-stack web applications. Collaborating in agile teams, I delivered scalable, high-performance solutions across various industries.",
     skills: [
       "Figma",
       "TailwindCSS",
@@ -572,7 +572,7 @@ const ExperienceInfo = [
     role: "Frontend Developer",
     company: "ITVisionHub",
     date: "July 2019 - July 2022",
-    desc: "During my tenure as a Frontend Developer, I specialized in building user-friendly, responsive web applications using modern frontend technologies such as React, JavaScript, TypeScript, Tailwind CSS, and Redux. I collaborated closely with design and backend teams to ensure seamless integration between UI/UX and the backend. I gathered user requirements, created mockups, and developed detailed UI designs using Figma. I also optimized website performance and ensured fast loading times using tools like Google Page Speed Insights. In addition to writing clean, maintainable code, I conducted vulnerability assessments to ensure the security of the web applications. My role involved managing existing websites, troubleshooting issues, and meeting project deadlines, all while continuously improving the user experience.",
+    desc: "As a Frontend Developer specializing in React.js, JavaScript, TypeScript, and Tailwind CSS, I built responsive, user-centric web applications. I collaborated closely with design and backend teams, ensuring the seamless integration of UI/UX with server-side functionality. I utilized Figma for mockups and optimized performance with Google Page Speed Insights.",
     skills: [
       "React JS",
       "JavaScript",
